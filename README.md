@@ -33,7 +33,7 @@ simulate an evacuation scenario,
 such as escaping from a building to avoid a fire, in order to determine 
 how much time is needed to escape and survive.
 
-# <p align="center">
+<p align="center">
 QR:GitHub
 </p>
 
@@ -50,8 +50,14 @@ determine what type of waste it is, so that we know which trash bin to dispose o
 
 **Demonstration**
 
+<p align="left">
+<img src="https://media.discordapp.net/attachments/908690015658311690/1330448030440231004/Layer_2.png?ex=678e03c8&is=678cb248&hm=bec50fbde8643ada3c64eebec5650073e4b64b1e766ea226bb890b63650406cb&=&format=webp&quality=lossless"></img>
+</p>
+
+<p align="right">
 The first step is to scan the barcode 
 from the plastic bottle.
+</p>
 
 Once scanned, the result 
 will be displayed on the screen.
