@@ -33,7 +33,7 @@ simulate an evacuation scenario,
 such as escaping from a building to avoid a fire, in order to determine 
 how much time is needed to escape and survive.
 
-<p align="center">
+# <p align="center">
 QR:GitHub
 </p>
 
