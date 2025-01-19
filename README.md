@@ -3,11 +3,19 @@
 <img src="https://media.discordapp.net/attachments/908690015658311690/1330399891423232051/images-removebg-preview.png?ex=678dd6f3&is=678c8573&hm=c8bf2409e005d1294e3801de6377b396a1a00b5676d9b05a991fed6818533a2a&=&format=webp&quality=lossless"></img>
 </p>
 
+<p align="center">
+<img src="https://media.discordapp.net/attachments/908690015658311690/1330453295055110204/Layer_14.png?ex=678e08b0&is=678cb730&hm=b0229d6068cbbe9ad0367844978e4bd4be7264c9af9d1fa6d6174ff678f76a44&=&format=webp&quality=lossless"></img>
+</p>
+
 **Name**: Sethtakarn Peerasawetphong
 
 **Education**: Bachelor of Engineering Major IoT System and Information Engineering at King Mongkut's Institute of Technology Ladkrabang
 
 # Google Cloud learning activity with My Order
+
+<p align="center">
+<img src="https://media.discordapp.net/attachments/908690015658311690/1330448032906350682/Sethtakarn_Peerasawetphong-1.png?ex=678e03c9&is=678cb249&hm=18eed36216477b42c1428e7251678397b9ae496e90973c9fb706882bc857ea57&=&format=webp&quality=lossless"></img>
+</p>
 
 I learned how to write Google Cloud from My Order company, 
 and also had the opportunity to try using the Cloud Shell system.
@@ -24,6 +32,11 @@ The calculation of step measurements for descending stairs is to
 simulate an evacuation scenario,
 such as escaping from a building to avoid a fire, in order to determine 
 how much time is needed to escape and survive.
+
+<p align="center">
+QR:GitHub
+<img src="https://media.discordapp.net/attachments/908690015658311690/1330448075071946854/github.png?ex=678e03d3&is=678cb253&hm=30ffac9a7d81b6de3fe4be695053cd1a13d0b53c6abac5c27a171004a04f3415&=&format=webp&quality=lossless"></img>
+</p>
 
 # Junk Scan
 
@@ -72,4 +85,4 @@ the blue light will not turn on.
 In case the card is correct, 
 if the card matches or is valid, 
 the result will show that 
-the blue light will turn on
+the blue light will turn on.
