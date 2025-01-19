@@ -94,11 +94,11 @@ vocational school, to university.
 # K-Engineering World Tour and Workshop 2024
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/908690015658311690/1330448074807574568/1734507768022.png?ex=678e03d3&is=678cb253&hm=0fd7f7fe394db60c61761d6649e174ad88bdfeac2bdb0bceb68ce31edea700b2&=&format=webp&quality=lossless"></img>
+<img src="https://media.discordapp.net/attachments/908690015658311690/1330448032470401024/picture_1.png?ex=678e03c9&is=678cb249&hm=c98170ea85fa64958801efc537b3ec30e6eeb9de73e96f11f8b591d38660c450&=&format=webp&quality=lossless"></img>
 </p>
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/908690015658311690/1330448032470401024/picture_1.png?ex=678e03c9&is=678cb249&hm=c98170ea85fa64958801efc537b3ec30e6eeb9de73e96f11f8b591d38660c450&=&format=webp&quality=lossless"></img>
+<img src="https://media.discordapp.net/attachments/908690015658311690/1330448074807574568/1734507768022.png?ex=678e03d3&is=678cb253&hm=0fd7f7fe394db60c61761d6649e174ad88bdfeac2bdb0bceb68ce31edea700b2&=&format=webp&quality=lossless"></img>
 </p>
 
 It is an activity to introduce the secondary students to the different engineering fields, explaining what each program is like, how to study them, and what kind of jobs they can pursue in the future after graduation.
