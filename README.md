@@ -41,7 +41,7 @@ QR:GitHub
 <img src="https://media.discordapp.net/attachments/908690015658311690/1330448075071946854/github.png?ex=678e03d3&is=678cb253&hm=30ffac9a7d81b6de3fe4be695053cd1a13d0b53c6abac5c27a171004a04f3415&=&format=webp&quality=lossless"></img>
 </p>
 
-[Duck Duck Go](https://duckduckgo.com).
+Link: [GitHub](https://github.com/baimai11/VerticalMap).
 
 # Junk Scan
 
