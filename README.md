@@ -14,7 +14,7 @@
 # Google Cloud learning activity with My Order
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/908690015658311690/1330448032906350682/Sethtakarn_Peerasawetphong-1.png?ex=678e03c9&is=678cb249&hm=18eed36216477b42c1428e7251678397b9ae496e90973c9fb706882bc857ea57&=&format=webp&quality=lossless"></img>
+<img src="https://drive.google.com/file/d/1l6TqK4o6YPzz3YWIzgYh0_YDP2Dmikgh/view?usp=sharing"></img>
 </p>
 
 I learned how to write Google Cloud from My Order company, 
@@ -38,7 +38,7 @@ QR:GitHub
 </p>
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/908690015658311690/1330448075071946854/github.png?ex=678e03d3&is=678cb253&hm=30ffac9a7d81b6de3fe4be695053cd1a13d0b53c6abac5c27a171004a04f3415&=&format=webp&quality=lossless"></img>
+<img src="https://drive.google.com/file/d/1NVkxAnL0QjokPQug7XxXFUfH48zXoTlz/view?usp=sharing"></img>
 </p>
 
 **Link**: [GitHub](https://github.com/baimai11/VerticalMap).
@@ -51,21 +51,21 @@ determine what type of waste it is, so that we know which trash bin to dispose o
 **<p align="center">Demonstration</p>**
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/908690015658311690/1330448030440231004/Layer_2.png?ex=678e03c8&is=678cb248&hm=bec50fbde8643ada3c64eebec5650073e4b64b1e766ea226bb890b63650406cb&=&format=webp&quality=lossless"></img>
+<img src="https://drive.google.com/file/d/12tI6y1xG-36mpVXTWMFA8XGftYv56eFN/view?usp=sharing"></img>
 </p>
 
 The first step is to scan the barcode 
 from the plastic bottle.
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/908690015658311690/1330448030767251466/Layer_3.png?ex=678e03c9&is=678cb249&hm=0816aaa062b05f00e8c45c7dbda292c3c9cb721ce45d7408ca247bfa07ad900b&=&format=webp&quality=lossless"></img>
+<img src="https://drive.google.com/file/d/1hUVsghe42tF5QkQEuUSEUCR_WaNWIdhJ/view?usp=sharing"></img>
 </p>
 
 Once scanned, the result 
 will be displayed on the screen.
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/908690015658311690/1330448031014846514/Layer_4.png?ex=678e03c9&is=678cb249&hm=4cf0513eefd90d1da5377706a2055b7b843ec0a7e403cbda4439c0cc9ff99841&=&format=webp&quality=lossless"></img>
+<img src="https://drive.google.com/file/d/1kbh7NJSfqEtVad5TjNL5VfopLqgkVXW7/view?usp=sharing"></img>
 </p>
 
 The result shows that the screen 
@@ -77,11 +77,11 @@ disposed of in the recycle bin.
 # APRA & TIRT Thailand 2023
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/908690015658311690/1330448033351077938/1.png?ex=678e03c9&is=678cb249&hm=236deadd7f6befc6f75367c084fe5b93e12d5d2913b0afb428d91f75805f8397&=&format=webp&quality=lossless"></img>
+<img src="https://drive.google.com/file/d/1wWFy2GyOERxPdaqCl0xNXvZuHVw-QcN9/view?usp=sharing"></img>
 </p>
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/908690015658311690/1330448074497064970/1734507674825.png?ex=678e03d3&is=678cb253&hm=880f017646c469ce91176001e5ec7d73da7ab4425c2460374f26841f1098071e&=&format=webp&quality=lossless"></img>
+<img src="https://drive.google.com/file/d/1bGKzJXvtKDu7D4Cxll8O4VfOQpHs5klU/view?usp=sharing"></img>
 </p>
 
 I participated in the event and served as a teacher assistant for the international robotics competition, which is a global 
@@ -94,7 +94,7 @@ vocational school, to university.
 # K-Engineering World Tour and Workshop 2024
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/908690015658311690/1330448032470401024/picture_1.png?ex=678e03c9&is=678cb249&hm=c98170ea85fa64958801efc537b3ec30e6eeb9de73e96f11f8b591d38660c450&=&format=webp&quality=lossless"></img>
+<img src="https://drive.google.com/file/d/1kUQPG3LoZHsuMAWfyJO7eT-C1nsA8o1D/view?usp=sharing"></img>
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@ It is an activity to introduce the secondary students to the different engineeri
 # Keycard reader
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/908690015658311690/1330448032147443722/Layer_489.png?ex=678e03c9&is=678cb249&hm=61e530d4cfed8788b2594f99cb627250832c263340266c746b89c505c2fd43a9&=&format=webp&quality=lossless"></img>
+<img src="https://drive.google.com/file/d/1XXwK9jL2RnCet_eMfjc9mHABXS5rW5wB/view?usp=sharing"></img>
 </p>
 
 It is used to scan the keycard, similar to the principle of 
@@ -115,7 +115,7 @@ using a keycard to unlock a door, with RFID as the main technology.
 **<p align="center">Demonstration</p>**
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/908690015658311690/1330448031325093919/Layer_29.png?ex=678e03c9&is=678cb249&hm=5dc9d374c681118ab2e3c129897a2117ac1acf4fb918d192c35a84fa459d56a1&=&format=webp&quality=lossless"></img>
+<img src="https://drive.google.com/file/d/1ugzC77Lyy32zc0CpDA5MDaZBxhgkMju1/view?usp=sharing"></img>
 </p>
 
 In case the card is incorrect,
@@ -124,10 +124,32 @@ invalid, the result will show that
 the blue light will not turn on.
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/908690015658311690/1330448031635603466/Layer_389.png?ex=678e03c9&is=678cb249&hm=bdafe15aa265a6ad3ab77261ff95375ea5c177779778431bd3d0ec4b027ee8eb&=&format=webp&quality=lossless"></img>
+<img src="https://drive.google.com/file/d/13n32yybbypUGOtHHIsEGk-n2Tj9SYf4t/view?usp=sharing"></img>
 </p>
 
 In case the card is correct, 
 if the card matches or is valid, 
 the result will show that 
 the blue light will turn on.
+
+# Internship Project
+
+<p align="center">
+<img src="https://drive.google.com/file/d/1c3UkWF1ccOF0oC730xC91U59yPgoPg7C/view?usp=sharing"></img>
+</p>
+
+I completed a 6-month internship at 
+Toyota and developed applications for 
+the company using 
+Microsoft Power Apps and 
+Microsoft Power BI.
+
+# Toyota Hackathon
+
+<p align="center">
+<img src="https://drive.google.com/file/d/1vs3Tx5iH-vGkm_E1sea0Wz0bLD5Vp0-G/view?usp=sharing"></img>
+</p>
+
+I participated in company activities, contributed to 
+developing innovations within the company, and presented 
+the projects to the company.
