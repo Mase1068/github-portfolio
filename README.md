@@ -13,9 +13,7 @@
 
 # Google Cloud learning activity with My Order
 
-<p align="center">
-<img src="https://drive.google.com/file/d/1l6TqK4o6YPzz3YWIzgYh0_YDP2Dmikgh/view?usp=sharing"></img>
-</p>
+![alt text](./public/Capture1.PNG)
 
 I learned how to write Google Cloud from My Order company, 
 and also had the opportunity to try using the Cloud Shell system.
