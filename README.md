@@ -117,7 +117,7 @@ Microsoft Power BI.
 
 # Toyota Hackathon
 
-![alt text](./public/1778932085165.jpg)
+![alt text](./public/1778932085165.png)
 
 I participated in company activities, contributed to 
 developing innovations within the company, and presented 
